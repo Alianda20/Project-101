@@ -1,0 +1,43 @@
+.fruits{
+    border:2px solid aquamarine;
+    background-color: #d0073d;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    background-color: #5acc5a;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #c70edc;
+}
+.comp{
+     background-color: #b51bc0;
+    border: #1b3fc4 solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #d7c0c0;
+
+}
+.lapt{
+    border: 2px solid black;
+}
+.dst{
+    border: 2px dotted blue;
+}
+#house{
+    background-color: #b51bc0;
+    border: #1b3fc4 solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #d7c0c0;
+
+}
+body{
+    background-image: url("/images/manu.png");
+}
